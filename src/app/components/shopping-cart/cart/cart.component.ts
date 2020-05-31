@@ -31,6 +31,7 @@ addProductToCart( product : Product){
     if(this.cartItems[i].productId === product.id) {
       this.cartItems[i].qty++
       productExists = true
+      
       break;
     }
   }

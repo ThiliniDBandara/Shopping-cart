@@ -1,3 +1,7 @@
 .product-btn {
     font-size: smaller;
 }
+.fa-heart{
+    color: maroon;
+    cursor: pointer;
+}
